@@ -1,0 +1,17 @@
+.h{color: white;}
+body{background-color: #000011;
+font-size: larger;}
+span{color: rgb(253, 65, 222);}
+.nav2 ul li a{color: white;}
+.nav2 ul li a{text-decoration: none;}
+.nav2 ul{display: flex;
+    align-items: center;
+    justify-content: space-between;
+margin-right: 50%;
+list-style-type:none;}
+.home{margin-top: 10%;}
+a:hover{color: red;
+font-size: 20px;
+transition: 0.3s;}
+a:hover{cursor: pointer;}
+
